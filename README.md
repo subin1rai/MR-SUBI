@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MR-SUBI
 - 👀 I’m interested in Software Development,
-- 🌱 I’m currently learning computer science
+- 🌱 I’m currently learning Bsc (Hons) Computing
 - 💞️ I’m looking to collaborate on software projects
 - 📫 How to reach me? => https://www.instagram.com/subi_bantawa/
 
