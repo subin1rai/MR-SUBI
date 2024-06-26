@@ -4,7 +4,6 @@
 - 📫 How to reach me? => [Instagram](https://www.instagram.com/subi_bantawa/)
 
 ![MR-SUBI's GitHub stats](https://github-readme-stats.vercel.app/api?username=MR-SUBI&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MR-SUBI&layout=compact&theme=radical)
 
 <!---
 MR-SUBI/MR-SUBI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
