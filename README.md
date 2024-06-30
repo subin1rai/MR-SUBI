@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Subin rai
-- 👀 I’m interested in Software Development
+- 👀 I’m interested in Software Development 
 - 🌱 I’m currently pursuing Bsc (Hons) Computing
 - 📫 How to reach me? => [Instagram](https://www.instagram.com/subi_bantawa/)
 
